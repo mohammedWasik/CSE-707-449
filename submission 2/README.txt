@@ -1,7 +1,18 @@
-Submission 2
+Link to Video:
 
-id-16101298
 
-Paper Link : https://aclanthology.org/2021.findings-acl.273
+Link to the slides: 
+https://docs.google.com/presentation/d/1wNeyxKH93SYJlIh2jcTC5GkL2_3KYJwea64-yJkZLKQ/edit#slide=id.g101b69499f6_0_24 
 
-Slide Link : https://docs.google.com/presentation/d/1wNeyxKH93SYJlIh2jcTC5GkL2_3KYJwea64-yJkZLKQ/edit#slide=id.g101b69499f6_0_24 
+Paper Title:
+How Good Is NLP? A Sober Look at NLP Tasks through the Lens of
+Social Impact
+
+Paper Link : 
+https://aclanthology.org/2021.findings-acl.273
+
+Group Number:
+9
+
+Group Members:
+16101298 Mashruk Mohammed Wasik Ataher
